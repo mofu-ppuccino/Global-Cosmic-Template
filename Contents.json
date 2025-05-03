@@ -2,44 +2,48 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
+			"Adaptive" : True,
+			"Bounce" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "00761bd2ddcb2fa637b033b0e4b60763",
 				"Address" : "d3E3Yzr7b_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Bounce" : True,
-			"Adaptive" : True,
-			"HideHands" : True,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "シャワーカーテン",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "cf1194c8c061ab3ca402b859941a3f9d",
 				"Address" : "Jn7XvtPp_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "コウモリの群れ",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "9340e07a2a7834bde1199000637f6924",
 				"Address" : "EV78wTa2_Main.png",
@@ -52,21 +56,20 @@
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "もふぺちーの",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
 		{
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "a52c5d8a3db12381f6e182faca391976",
 				"Address" : "gx0S0Aw_Main.png",
@@ -85,122 +88,119 @@
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "ツンデレ",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "9bc83c3a4623c8071759f1e9dd5d4b09",
 				"Address" : "2KwB1V2U_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "なんでもいいよ…",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "2069015d7613f0083514ca3d9c4263d9",
 				"Address" : "U2BUlRJm_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "カワイイヤツ",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "6731f0b3cd459e6f07837d29e9ab3a44",
 				"Address" : "6TcX6c_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "うぉ？",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "a64c905e8491cd7cdce019c4d9ba5e44",
 				"Address" : "zPfWFzw_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "ジャック",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "0253e566a3994278c8df3928cd4f32b2",
 				"Address" : "BNgDlRMgb_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "隠す気無し",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "5dbc6a84ca7c81d6e0db0a45cc8550df",
 				"Address" : "AuKnZs5p_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "ぼっちです…",
 			"Author" : "もふ",
-			"Package" : "None",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
@@ -210,6 +210,12 @@
 	"Stamps" : [
 	],
 	"Packages" : [
+		{
+			"Package" : "1",
+			"Format" : "Mofu_ppuccino's Cosmetics",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
 	],
 	"IsLocalizable" : True
 }
