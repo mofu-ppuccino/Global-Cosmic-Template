@@ -212,7 +212,7 @@
 				"MaskAddress" : null
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
@@ -230,7 +230,7 @@
 				"MaskAddress" : null
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
@@ -248,7 +248,7 @@
 				"MaskAddress" : null
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
