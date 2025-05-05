@@ -63,6 +63,26 @@
 			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d37bc29e33aeccf9fc97901bb4dfe693",
+				"Address" : "jUdvAreb_Main.png",
+				"ExAddress" : "jUdvAreb_Main_Ex.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "通行止め",
+			"Author" : "もふ",
+			"Package" : "1",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -242,8 +262,8 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "71f94eb52cdb1c53f7f838347272c628",
-				"Address" : "ig9h45gz_Main.png",
+				"Hash" : "97d15e976f7955d87ce11657bb67d75c",
+				"Address" : "AjEDRrw_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
@@ -252,7 +272,25 @@
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
-			"Name" : "キラーマシン",
+			"Name" : "ひとつ目",
+			"Author" : "もふ",
+			"Package" : "1",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e1d0d19097a1007047086ca8e71157e5",
+				"Address" : "wjhB1UvCb_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "メガネはどこ？",
 			"Author" : "もふ",
 			"Package" : "1",
 			"IsUnlockable" : False,
