@@ -78,7 +78,7 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
-			"Name" : "通行止め",
+			"Name" : "進入禁止",
 			"Author" : "もふ",
 			"Package" : "1",
 			"IsUnlockable" : False,
