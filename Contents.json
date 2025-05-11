@@ -5,8 +5,7 @@
 			"Main" : {
 				"Hash" : "00761bd2ddcb2fa637b033b0e4b60763",
 				"Address" : "d3E3Yzr7b_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Bounce" : True,
 			"Adaptive" : True,
@@ -24,8 +23,7 @@
 			"Main" : {
 				"Hash" : "cf1194c8c061ab3ca402b859941a3f9d",
 				"Address" : "Jn7XvtPp_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -43,14 +41,12 @@
 			"Main" : {
 				"Hash" : "9340e07a2a7834bde1199000637f6924",
 				"Address" : "EV78wTa2_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Back" : {
 				"Hash" : "4f5d0357daf477b6750971b592bb435e",
 				"Address" : "EV78wTa2_Back.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -69,8 +65,7 @@
 				"Hash" : "d37bc29e33aeccf9fc97901bb4dfe693",
 				"Address" : "jUdvAreb_Main.png",
 				"ExAddress" : "jUdvAreb_Main_Ex.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -83,6 +78,84 @@
 			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9224c8353ef591b3ea72f4145689fc24",
+				"Address" : "UTGODtw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "もちまる",
+			"Author" : "もふ",
+			"Package" : "1",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d335f6480dfd903f34ffeef802d32104",
+				"Address" : "Ul38xSys_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ヘディング",
+			"Author" : "もふ",
+			"Package" : "1",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f5c4c6f8b8e035b19b3393e739a9d90a",
+				"Address" : "fctT6c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "3ecb591eceeedb636fddfe779ced4d5b",
+				"Address" : "fctT6c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "あんり",
+			"Author" : "もふ",
+			"Package" : "1",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "008c873ebaec4690fac8b9e7b0a491a0",
+				"Address" : "wYFab_Main.png",
+				"ExAddress" : "wYFab_Main_Ex.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "米俵",
+			"Author" : "もふ",
+			"Package" : "1",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -90,20 +163,17 @@
 			"Main" : {
 				"Hash" : "a52c5d8a3db12381f6e182faca391976",
 				"Address" : "gx0S0Aw_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Move" : {
 				"Hash" : "a52c5d8a3db12381f6e182faca391976",
 				"Address" : "gx0S0Aw_Move.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"EnterVent" : {
 				"Hash" : "a52c5d8a3db12381f6e182faca391976",
 				"Address" : "gx0S0Aw_EnterVent.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -120,8 +190,7 @@
 			"Main" : {
 				"Hash" : "9bc83c3a4623c8071759f1e9dd5d4b09",
 				"Address" : "2KwB1V2U_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -138,8 +207,7 @@
 			"Main" : {
 				"Hash" : "2069015d7613f0083514ca3d9c4263d9",
 				"Address" : "U2BUlRJm_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -156,8 +224,7 @@
 			"Main" : {
 				"Hash" : "6731f0b3cd459e6f07837d29e9ab3a44",
 				"Address" : "6TcX6c_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -174,8 +241,7 @@
 			"Main" : {
 				"Hash" : "a64c905e8491cd7cdce019c4d9ba5e44",
 				"Address" : "zPfWFzw_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -192,8 +258,7 @@
 			"Main" : {
 				"Hash" : "0253e566a3994278c8df3928cd4f32b2",
 				"Address" : "BNgDlRMgb_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -210,8 +275,7 @@
 			"Main" : {
 				"Hash" : "5dbc6a84ca7c81d6e0db0a45cc8550df",
 				"Address" : "AuKnZs5p_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -228,8 +292,7 @@
 			"Main" : {
 				"Hash" : "393e1d97b54c9234a01e8809ee28a9a3",
 				"Address" : "w0QRFfwZ_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -246,8 +309,7 @@
 			"Main" : {
 				"Hash" : "4dea6b64719baaa329d9c34bfc9c71eb",
 				"Address" : "5JLSFfwZ_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -264,8 +326,7 @@
 			"Main" : {
 				"Hash" : "97d15e976f7955d87ce11657bb67d75c",
 				"Address" : "AjEDRrw_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
@@ -282,8 +343,7 @@
 			"Main" : {
 				"Hash" : "e1d0d19097a1007047086ca8e71157e5",
 				"Address" : "wjhB1UvCb_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Adaptive" : False,
 			"BehindHat" : True,
