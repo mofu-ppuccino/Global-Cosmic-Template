@@ -116,14 +116,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "f5c4c6f8b8e035b19b3393e739a9d90a",
-				"Address" : "fctT6c_Main.png",
-				"ExIsFront" : False
-			},
 			"Climb" : {
 				"Hash" : "3ecb591eceeedb636fddfe779ced4d5b",
 				"Address" : "fctT6c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "f5c4c6f8b8e035b19b3393e739a9d90a",
+				"Address" : "fctT6c_Main.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -139,6 +139,12 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "b92c6e4cba5b1cfbafc4e988144fb080",
+				"Address" : "wYFab_Climb.png",
+				"ExAddress" : "wYFab_Climb_Ex.png",
+				"ExIsFront" : False
+			},
 			"Main" : {
 				"Hash" : "827334efc9ce39ce629922aaa851876d",
 				"Address" : "wYFab_Main.png",
