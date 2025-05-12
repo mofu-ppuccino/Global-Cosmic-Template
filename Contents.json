@@ -116,14 +116,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "3ecb591eceeedb636fddfe779ced4d5b",
-				"Address" : "fctT6c_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "f5c4c6f8b8e035b19b3393e739a9d90a",
 				"Address" : "fctT6c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "3ecb591eceeedb636fddfe779ced4d5b",
+				"Address" : "fctT6c_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -139,16 +139,16 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "b92c6e4cba5b1cfbafc4e988144fb080",
-				"Address" : "wYFab_Climb.png",
-				"ExAddress" : "wYFab_Climb_Ex.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "827334efc9ce39ce629922aaa851876d",
 				"Address" : "wYFab_Main.png",
 				"ExAddress" : "wYFab_Main_Ex.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b92c6e4cba5b1cfbafc4e988144fb080",
+				"Address" : "wYFab_Climb.png",
+				"ExAddress" : "wYFab_Climb_Ex.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -357,6 +357,24 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "メガネはどこ？",
+			"Author" : "もふ",
+			"Package" : "1",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "29485ec675499a95b68495f5971f0093",
+				"Address" : "dUGJi4qqb_Main.png",
+				"ExAddress" : "dUGJi4qqb_Main_Ex.png",
+				"ExIsFront" : True
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "R\.E\.P\.O\.",
 			"Author" : "もふ",
 			"Package" : "1",
 			"IsUnlockable" : False,
