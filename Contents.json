@@ -370,7 +370,7 @@
 				"ExIsFront" : True
 			},
 			"Adaptive" : True,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
