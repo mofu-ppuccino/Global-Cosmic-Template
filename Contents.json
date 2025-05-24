@@ -162,6 +162,29 @@
 			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b7c84cd4191673be4326f652cd7cf00c",
+				"Address" : "q9rNQldRb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "b7c84cd4191673be4326f652cd7cf00c",
+				"Address" : "q9rNQldRb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "すみませんでした。",
+			"Author" : "もふ",
+			"Package" : "1",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
